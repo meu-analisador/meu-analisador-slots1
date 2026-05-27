@@ -1,1 +1,0 @@
-# meu-analisador-slots1
